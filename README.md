@@ -28,5 +28,5 @@ Users can enter a value, select the required source and target units, and instan
 🎯 Project Purpose
 The project demonstrates how to build a practical utility application using Kotlin and Jetpack Compose, while practicing user input handling, state management, conversion algorithms, UI interactions, and dynamic result rendering.
 
-Demo App
+
 ![Screenshot (14)](https://github.com/Anuragroyan/Unit_Converter_app/assets/38952781/bd1c4723-0439-4005-92b9-e01e172b3103)
